@@ -1,5 +1,5 @@
 # PyUserRole
-PureConnect ICWS script to generate a .csv of users with their actual and inherited roles.  Python 3.5+
+PureConnect ICWS script to generate a .csv of users with their actual and inherited roles.  Python 3.6+
 
 Script is very basic and has a few requirements:
 * you need to have an ICWS SDK license for your PureConnect environment
